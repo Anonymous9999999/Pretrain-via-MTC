@@ -16,7 +16,7 @@ We provide a docker enviroment with all packages installed, where you can run al
 
 The tested python version is 3.6.9. For package versions, please refer to requirements.txt.
 
-To successfully run our code in the docker container with at least 1 gpu, you have to install nvidia-container-toolkit first, for details, please refer to https://dev.to/et813/install-docker-and-nvidia-container-m0j. 
+To successfully run our code in the docker container, you need at least 1 gpu and install nvidia-container-toolkit first, for details, please refer to https://dev.to/et813/install-docker-and-nvidia-container-m0j. 
 
 To inspect the pre-training and probing procedure/code, simply clone the whole repository or just the dockerfile, and run the following line to build and run.
 ```shell script
