@@ -1,0 +1,13 @@
+task,part_prob,avg_improve_over_base
+clustering,0.1,0.0249
+clustering,0.25,-0.0166
+clustering,0.5,-0.0456
+clustering,1.0,-0.00414
+churn_predict feature extraction,0.1,0.0270
+churn_predict feature extraction,0.25,0.0075
+churn_predict feature extraction,0.5,0.0255
+churn_predict feature extraction,1.0,0.0090
+churn_predict_finetune,0.1,0.02601
+churn_predict_finetune,0.25,0.0112
+churn_predict_finetune,0.5,-0.00281
+churn_predict_finetune,1.0,-0.00738

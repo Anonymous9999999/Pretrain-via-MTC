@@ -1,0 +1,5 @@
+FROM hub.fuxi.netease.com/pujiashu/cuda_9.0_cudnn7_py3.6_ubuntu16.04:v0.2.0
+
+WORKDIR /
+ADD / /
+RUN python3.6 setup.py install

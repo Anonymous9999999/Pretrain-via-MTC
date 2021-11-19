@@ -1,0 +1,9 @@
+# 0 41  7 25 43 47 48 35
+Index-0, is_player_log_id: False, translated_label: ['[UNK]', '[UNK]']
+Index-41, is_player_log_id: False, translated_label: ['IMInfo/普通行为/好友度超过100(100这个值随策划填表定 问策划)玩家id', '']
+Index-7, is_player_log_id: False, translated_label: ['[UNK]']
+Index-25, is_player_log_id: False, translated_label: ['PlayerBagInfo/普通行为/玩家当前背包的情况', '']
+Index-43, is_player_log_id: False, translated_label: ['TiLi/普通行为/体力变化', '', 'IMInfo/普通行为/好友度超过100(100这个值随策划填表定 问策划)玩家id', '']
+Index-47, is_player_log_id: False, translated_label: ['IMInfo/普通行为/好友度超过100(100这个值随策划填表定 问策划)玩家id', '', 'IMInfo/普通行为/好友度超过100(100这个值随策划填表定 问策划)玩家id', '', 'IMInfo/普通行为/好友度超过100(100这个值随策划填表定 问策划)玩家id', '', 'IMInfo/普通行为/好友度超过100(100这个值随策划填表定 问策划)玩家id', '', 'IMInfo/普通行为/好友度超过100(100这个值随策划填表定 问策划)玩家id', '']
+Index-48, is_player_log_id: True, translated_label: ['RankDiffFightProp/普通行为/排行榜上榜属性与实际属性，只有上榜了并且有差异才会刷', '', 'RefreshRanklistNormally/普通行为/正常刷新排行榜', '', 'PlayerAddItem/普通行为/玩家加物品']
+Index-35, is_player_log_id: True, translated_label: ['MultiExp/普通行为/多倍经验时长变动', '', 'ChangeTeamMemberBasicField/普通行为/更改队员字段', '', 'CrossServerBWDHTotalScore/普通行为/跨服比武大会战队成员战力收集日志', '', 'EnterMap/关键行为/进图']

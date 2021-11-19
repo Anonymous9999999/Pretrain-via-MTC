@@ -1,0 +1,4 @@
+tokenizers==0.8.1rc2
+torch==1.4.0
+easydict==1.9
+tqdm==4.46.0

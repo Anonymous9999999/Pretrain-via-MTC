@@ -1,0 +1,5 @@
+{
+  "model": "bert",
+  "is_time_embed": false,
+  "tokenizer": "whitespace"
+}
