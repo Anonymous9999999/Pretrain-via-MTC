@@ -4,11 +4,11 @@
 
 Typical examples of proactive and passive/systems logs in Justice Online:
 
-![aaaaaaa](https://tva1.sinaimg.cn/large/008i3skNly1gwkaz0zeijj30x00abtaw.jpg)
+![3](https://tva1.sinaimg.cn/large/008i3skNly1gwkc1sce0vj324r0ogwlb.jpg)
 
 We demonstrate the results of the deployed PMTC-enhanced bot detection system. Each figure presents a cluster of similar behavioral sequences, with each color representing an event id:
 
-![image-20211119114102492](https://tva1.sinaimg.cn/large/008i3skNly1gwkbg57yo4j30ry08wabk.jpg)
+![1](https://tva1.sinaimg.cn/large/008i3skNly1gwkbzrqks4j31s10kd7a6.jpg)
 
 ## Requirements
 
